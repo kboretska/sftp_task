@@ -7,7 +7,9 @@ app = Flask(__name__)
 
 # IP addresses of the machines
 hosts = {
-    "sftp_1": "192.168.56.201"
+    "sftp_1": "192.168.56.201",
+    "sftp_2": "192.168.56.202",
+    "sftp_3": "192.168.56.203"
 }
 
 
